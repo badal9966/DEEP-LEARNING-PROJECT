@@ -52,3 +52,6 @@ Training and validation accuracy are plotted using matplotlib after training. Yo
 bash
 pip install tensorflow matplotlib
 
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/03ea983d-bc8b-4a25-9d8a-76606f012243)
+
